@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Excellent Quality!",
+    "review": "Exceeded my expectations in terms of quality and durability.",
+    "rating": 5,
+    "imageUrl": "https://i.ibb.co.com/GfZW72x/image.png"
+  },
+  {
+    "id": 2,
+    "title": "Good Product",
+    "review": "The product quality was as expected and it works well.",
+    "rating": 4,
+    "imageUrl": "https://i.ibb.co.com/q94tk1n/image.png"
+  },
+  {
+    "id": 3,
+    "title": "Not Bad",
+    "review": "It’s decent for the price, but there are some improvements that could be made.",
+    "rating": 3,
+    "imageUrl": "https://i.ibb.co.com/nc6V3pm/image.png"
+  },
+  {
+    "id": 4,
+    "title": "Could Be Better",
+    "review": "The quality wasn’t up to my expectations, especially considering the cost.",
+    "rating": 2,
+    "imageUrl": "https://i.ibb.co.com/6b5JR01/image.png"
+  },
+  {
+    "id": 5,
+    "title": "Disappointed",
+    "review": "The product didn’t work as advertised, and I faced several issues.",
+    "rating": 1,
+    "imageUrl": "https://i.ibb.co.com/7gxV01Y/image.png"
+  },
+  {
+    "id": 6,
+    "title": "Highly Recommended!",
+    "review": "Exceeded my expectations in terms of quality and durability.",
+    "rating": 5,
+    "imageUrl": "https://i.ibb.co.com/Hq7t3q2/image.png"
+  },
+  {
+    "id": 7,
+    "title": "Great Value for Money",
+    "review": "For the price, this product offers great features and quality.",
+    "rating": 4,
+    "imageUrl": "https://i.ibb.co.com/6WL5gjF/image.png"
+  },
+  {
+    "id": 8,
+    "title": "Average Experience",
+    "review": "It does the job but doesn’t stand out in terms of quality.",
+    "rating": 3,
+    "imageUrl": "https://i.ibb.co.com/px9FphB/image.png"
+  },
+  {
+    "id": 9,
+    "title": "Poor Build Quality",
+    "review": "Felt flimsy and didn’t last long under regular use.",
+    "rating": 2,
+    "imageUrl": "https://i.ibb.co.com/qFydN8G/image.png"
+  },
+  {
+    "id": 10,
+    "title": "Not Worth It",
+    "review": "The product was disappointing and didn’t match the description.",
+    "rating": 1,
+    "imageUrl": "https://i.ibb.co.com/4pvfspw/image.png"
+  }
+]

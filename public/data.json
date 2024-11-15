@@ -1,0 +1,313 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "HP EliteBook 840 G3",
+    "product_image": "https://i.ibb.co.com/F48Bn42/image.png",
+    "category": "Laptops",
+    "price": 499.99,
+    "description": "High-performance gaming desktop with RTX 3080 graphics.",
+    "Specification": [
+      { "key": "Processor", "value": "AMD Ryzen 9 5900" },
+      { "key": "RAM", "value": "32GB" },
+      { "key": "Storage", "value": "1TB SSD" }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "HP",
+    "discount": 10
+  },
+
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/BsFTWyg/image.png",
+    "category": "Phones",
+    "price": 299.99,
+    "description": "Flagship Android smartphone with top-notch performance and camera.",
+    "Specification": [
+      { "key": "Screen Size", "value": "6.8 inches" },
+      { "key": "RAM", "value": "12GB" },
+      { "key": "Storage", "value": "512GB" }
+    ],
+    "availability": false,
+    "rating": 4.9,
+    "brand": "Samsung",
+    "discount": 15
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Apple iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/ZBcw40N/image.png",
+    "category": "iPhone",
+    "price": 399.99,
+    "description": "Latest iPhone with stunning camera and A16 Bionic chip.",
+    "Specification": [
+      { "key": "Screen Size", "value": "6.1 inches" },
+      { "key": "RAM", "value": "6GB" },
+      { "key": "Storage", "value": "256GB" }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Apple",
+    "discount": 20
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/YZvj2wZ/image.png",
+    "category": "MacBook",
+    "price": 459.99,
+    "description": "Lightweight MacBook with M2 chip and stunning Retina display.",
+    "Specification": [
+      { "key": "Processor", "value": "Apple M2" },
+      { "key": "RAM", "value": "8GB" },
+      { "key": "Storage", "value": "256GB SSD" }
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "brand": "Apple",
+    "discount": 10
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/tpRFtzL/image.png",
+    "category": "Laptops",
+    "price": 475.99,
+    "description": "Compact and powerful laptop with InfinityEdge display.",
+    "Specification": [
+      { "key": "Processor", "value": "Intel Core i7" },
+      { "key": "RAM", "value": "16GB" },
+      { "key": "Storage", "value": "512GB SSD" }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Dell",
+    "discount": 5
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://i.ibb.co.com/37M4HhS/image.png",
+    "category": "Phones",
+    "price": 399.99,
+    "description": "Smartphone with AI-powered camera and 5G support.",
+    "Specification": [
+      { "key": "Screen Size", "value": "6.7 inches" },
+      { "key": "RAM", "value": "12GB" },
+      { "key": "Storage", "value": "128GB" }
+    ],
+    "availability": false,
+    "rating": 4.8,
+    "brand": "Google",
+    "discount": 10
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/Wf1602L/image.png",
+    "category": "Accessories",
+    "price": 249.99,
+    "description": "Wireless noise-canceling earbuds with spatial audio.",
+    "Specification": [],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Apple",
+    "discount": 15
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/pP8RWvv/image.png",
+    "category": "Smart Watches",
+    "price": 229.95,
+    "description": "Smartwatch with fitness tracking and heart rate monitoring.",
+    "Specification": [],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "Fitbit",
+    "discount": 10
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/Vghz9M2/image.png",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "Smartwatch with health monitoring and GPS.",
+    "Specification": [],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Apple",
+    "discount": 15
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Razer BlackWidow V3",
+    "product_image": "https://i.ibb.co.com/zGmKkMg/image.png",
+    "category": "Accessories",
+    "price": 169.99,
+    "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+    "Specification": [],
+    "availability": false,
+    "rating": 4.7,
+    "brand": "Razer",
+    "discount": 5
+  },
+  {
+    "product_id": "P017",
+    "product_title": "Apple iPhone SE (2022)",
+    "product_image": "https://i.ibb.co.com/xKkkZ7Q/image.png",
+    "category": "iPhone",
+    "price": 429.99,
+    "description": "Compact smartphone with A15 Bionic chip and great camera.",
+    "Specification": [
+      { "key": "Screen Size", "value": "4.7 inches" },
+      { "key": "RAM", "value": "4GB" },
+      { "key": "Storage", "value": "128GB" }
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Apple",
+    "discount": 15
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.ibb.co.com/0ytQWCf/image.png",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Wireless mouse with advanced ergonomic design.",
+    "Specification": [],
+    "availability": false,
+    "rating": 4.8,
+    "brand": "Logitech",
+    "discount": 10
+  },
+  {
+    "product_id": "P014",
+    "product_title": "Garmin Forerunner 245",
+    "product_image": "https://i.ibb.co.com/x7715z8/image.png",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "Running smartwatch with advanced GPS features.",
+    "Specification": [],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Garmin",
+    "discount": 5
+  },
+  {
+    "product_id": "P019",
+    "product_title": "Jabra Elite 85t",
+    "product_image": "https://i.ibb.co.com/BC6VQx6/image.png",
+    "category": "Accessories",
+    "price": 229.99,
+    "description": "True wireless earbuds with advanced noise cancellation.",
+    "Specification": [],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "Jabra",
+    "discount": 5
+  },
+  {
+    "product_id": "P020",
+    "product_title": "Fossil Gen 6 Smartwatch",
+    "product_image": "https://i.ibb.co.com/QHM6YtG/image.png",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "Stylish smartwatch with Wear OS and health monitoring.",
+    "Specification": [],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "Fossil",
+    "discount": 10
+  },
+  {
+    "product_id": "P021",
+    "product_title": "Apple MacBook Pro M2",
+    "product_image": "https://i.ibb.co.com/XS4gwrh/image.png",
+    "category": "MacBook",
+    "price": 129.99,
+    "description": "Powerful MacBook Pro with M2 chip, designed for professionals needing top performance and an immersive display.",
+    "Specification": [
+      { "key": "Processor", "value": "Apple M2" },
+      { "key": "RAM", "value": "16GB" },
+      { "key": "Storage", "value": "512GB SSD" },
+      { "key": "Display", "value": "13.3-inch Retina" }
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "brand": "Apple",
+    "discount": 5
+  },
+
+  {
+    "product_id": "P022",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/TTbSjS6/image.png",
+    "category": "Laptops",
+    "price": 159.99,
+    "description": "Versatile and high-performance convertible laptop.",
+    "Specification": [
+      { "key": "Processor", "value": "Intel Core i7" },
+      { "key": "RAM", "value": "16GB" },
+      { "key": "Storage", "value": "512GB SSD" }
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "HP",
+    "discount": 10
+  },
+  {
+    "product_id": "P023",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/Msx0qS8/image.png",
+    "category": "Laptops",
+    "price": 199.99,
+    "description": "Lightweight business laptop with robust performance.",
+    "Specification": [
+      { "key": "Processor", "value": "Intel Core i7" },
+      { "key": "RAM", "value": "16GB" },
+      { "key": "Storage", "value": "1TB SSD" }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Lenovo",
+    "discount": 12
+  },
+  {
+    "product_id": "P024",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.ibb.co.com/dtWYysS/image.png",
+    "category": "Laptops",
+    "price": 649.99,
+    "description": "Affordable laptop with excellent battery life.",
+    "Specification": [
+      { "key": "Processor", "value": "AMD Ryzen 5" },
+      { "key": "RAM", "value": "8GB" },
+      { "key": "Storage", "value": "512GB SSD" }
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "brand": "Acer",
+    "discount": 8
+  },
+  {
+    "product_id": "P025",
+    "product_title": "ASUS ZenBook 14",
+    "product_image": "https://i.ibb.co.com/9smcLH2/image.png",
+    "category": "Laptops",
+    "price": 399.99,
+    "description": "Ultra-slim laptop with NanoEdge bezel display.",
+    "Specification": [
+      { "key": "Processor", "value": "Intel Core i5" },
+      { "key": "RAM", "value": "8GB" },
+      { "key": "Storage", "value": "512GB SSD" }
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "ASUS",
+    "discount": 7
+  }
+]
